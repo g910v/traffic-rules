@@ -1,0 +1,15 @@
+<svg width="650px" height="300px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Знаки 1.12 - Опасные повороты</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <g id="t">
+    <path fill="#fff" stroke="#000" stroke-width="4" d="M 62 130 l 67.5 -114 a 23 23 0 0 1 41 0 l 122 208 a 24 23 0 0 1 -22 35 h -242 a 24 23 0 0 1 -22 -35 z" />
+    <path fill="#e61e21" d="M 69.3 132 l 67.5 -114 a 15 15 0 0 1 26.2 0 l 124 210 a 17.3 16.4 0 0 1 -14 24.3 h -247 a 17.3 16.4 0 0 1 -14 -24.3 l 57.3 -96 h 19.2 l -57.7 97.2 a 6 5 0 0 0 5 7 h 228 a 6 5 0 0 0 5 -7 l -115.6 -194 a 4.5 4.5 0 0 0 -7 0 l -57.8 97 z" />
+  </g>
+  <use xlink:href="#t" x="350" />
+  <g text-anchor="middle" font-size="22px" font-family="Arial" font-weight="bold">
+    <text x="145" y="288">1.12.1</text>
+    <text x="495" y="288">1.12.2</text>
+  </g>
+  <path d="M 91 232.5 v-68 a 26 26 0 0 1 43 -19.5 l 26.6 20.6 a 3 3 0 0 0 4 -1 v-55 h26 v55 a 28 28 0 0 1 -46 22 l -24 -19.2 a 3 3 0 0 0 -4 1 v64 z" />
+  <path d="M 559 232.5 v-68 a 26 26 0 0 0 -43 -19.5 l -26.6 20.6 a 3 3 0 0 1 -4 -1 v-55 h-26 v55 a 28 28 0 0 0 46 22 l 24 -19.2 a 3 3 0 0 1 4 1 v64 z" />
+<text x="50%" y="84%" dx="1,1,1,1,1,1,1,1,1,1" fill="white" fill-opacity="20%" stroke-opacity="5%" stroke="black" stroke-width="2" text-anchor="middle" font-size="30px" font-weight="bold" font-family="Arial">ruspdd.com</text></svg>

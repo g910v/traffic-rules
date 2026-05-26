@@ -1,0 +1,23 @@
+<svg width="510px" height="500px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Знаки 1.34 - Направление поворота</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <defs>
+    <path id="tt" fill="none" stroke="#fff" stroke-width="28" d="M 81 -19 l -60 60 60 60 m 122.5 0 l -60 -60 60 -60 m 122.5 0 l -60 60 60 60 m 122.5 0 l -60 -60 60 -60 m 85 0 l 60 60 -60 60 m 122.5 0 l 60 -60 -60 -60 m 122.5 0 l 60 60 -60 60 m 122.5 0 l 60 -60 -60 -60" />
+    <pattern id="p" width="1" height="1"><use xlink:href="#tt" x="-490" /></pattern>
+    <pattern id="p2" width="1" height="1"><use xlink:href="#tt" /></pattern>
+    <pattern id="p3" width="1" height="1"><use xlink:href="#tt" x="-245" /></pattern>
+    <g id="bg">
+      <rect x="2" y="2" width="506px" height="96px" fill="#fff" stroke="#000" stroke-width="4" />
+      <rect x="9" y="9" width="492px" height="82px" fill="#ec1d23" />
+      <rect x="9" y="9" width="492px" height="82px" />
+    </g>
+  </defs>
+  <use xlink:href="#bg" fill="url(#p)" />
+  <use xlink:href="#bg" fill="url(#p2)" y="180" />
+  <use xlink:href="#bg" fill="url(#p3)" y="360" />
+  <g text-anchor="middle" font-size="24px" font-family="Arial" font-weight="bold">
+    <text x="250" y="130">1.34.1</text>
+    <text x="250" y="310">1.34.2</text>
+    <text x="250" y="490">1.34.3</text>
+  </g>
+<text x="50%" y="50%" dx="1,1,1,1,1,1,1,1,1,1" fill="white" fill-opacity="20%" stroke-opacity="5%" stroke="black" stroke-width="2" text-anchor="middle" font-size="30px" font-weight="bold" font-family="Arial">ruspdd.com</text></svg>
