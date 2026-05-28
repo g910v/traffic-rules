@@ -1,0 +1,6 @@
+<svg width="300px" height="150px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Знак 8.2.1 - Зона действия</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <rect x="3" y="3" rx="16" ry="16" width="294px" height="144px" fill="#fff" stroke="#000" stroke-width="6" />
+  <text x="148" y="100" dx="0,-4,1" text-anchor="middle" font-weight="bold" font-family="Arial" font-size="70px">100<tspan dx="7" font-size="64px">м</tspan></text>
+  <path d="M 38 36 l -23 40 h15 v37 h16 v-37 h15 z m 224 0 l -23 40 h15 v37 h16 v-37 h15 z" /></svg>

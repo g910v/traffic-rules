@@ -1,0 +1,12 @@
+<svg width="300px" height="450px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Знак 5.31 - Зона с ограничением максимальной скорости</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <defs>
+    <pattern id="p" width="1" height="1">
+      <text x="139" y="72" text-anchor="middle" font-size="62px" font-weight="bold" font-family="Arial">ЗОНА</text>
+      <circle cx="139" cy="223" r="99" fill="#fff" stroke="#ed1e24" stroke-width="20" />
+      <text x="139" y="265" text-anchor="middle" font-size="115px" font-weight="bold" font-family="Arial">30</text>
+    </pattern>
+  </defs>
+  <rect x="1.5" y="1.5" rx="18" ry="18" width="297px" height="445px" fill="#fff" stroke="#000" stroke-width="3" />
+  <rect x="11" y="11" rx="9" ry="9" width="278px" height="426px" fill="url(#p)" stroke="#000" stroke-width="5" /></svg>

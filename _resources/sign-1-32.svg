@@ -10,5 +10,4 @@
   <path id="w" d="M 152.7 210 h14 v9 a 7 7 0 0 1 -14 0 z" />
   <use xlink:href="#w" x="50" />
   <path d="M 126.4 191 h13 v7.5 a 5 5 0 0 1 -13 0 z" />
-  <path d="M 100 171.4 h12.2 v6.7 a 5 5 0 0 1 -12.2 0 z" />
-<text x="50%" y="95%" dx="1,1,1,1,1,1,1,1,1,1" fill="white" fill-opacity="20%" stroke-opacity="5%" stroke="black" stroke-width="2" text-anchor="middle" font-size="30px" font-weight="bold" font-family="Arial">ruspdd.com</text></svg>
+  <path d="M 100 171.4 h12.2 v6.7 a 5 5 0 0 1 -12.2 0 z" /></svg>

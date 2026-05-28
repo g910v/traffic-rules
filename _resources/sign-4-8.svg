@@ -1,0 +1,23 @@
+<svg width="1100px" height="500px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Знаки 4.8 - Направление движения транспортных средств с опасными грузами</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <g id="bg">
+    <rect x="1.5" y="1.5" rx="24" ry="24" width="297px" height="447px" fill="#fff" stroke="#000" stroke-width="3" />
+    <rect x="9" y="9" rx="18" ry="18" width="282px" height="432px" fill="#fff" stroke="#000" stroke-width="6.4" />
+    <path fill="#f4961c" d="M 94 66.5 a 10 10 0 0 1 10 -10 h92 a 10 10 0 0 1 10 10 v121 a 1 1 0 0 1 -1 1 h-110 a 1 1 0 0 1 -1 -1 z" />
+    <path fill="none" stroke="#000" stroke-width="6" d="M 94 197 h112" />
+    <path d="M 94 202 h15 v13 h31 a 10.4 10.4 0 0 1 20 0 h31 v-13 h15 v33 h-15 v-13 h-31 a 10.4 10.4 0 0 1 -20 0 h-31 v13 h-15 z" />
+    <circle cx="150" cy="340" r="70" fill="#0482cc" />
+  </g>
+  <use xlink:href="#bg" x="400" />
+  <use xlink:href="#bg" x="800" />
+  <g fill="#fff">
+    <path d="M 150 287 l 18.5 32 h-12 v94 h-13 v-94 h-12 z" />
+    <path d="M 603 334 l -32 18.5 v-12 h-33 a 10 10 0 0 0 -10 10 v62 h-13 v-62 a 23 23 0 0 1 23 -23 h33 v-12 z" />
+    <path d="M 897 334 l 32 18.5 v-12 h33 a 10 10 0 0 1 10 10 v62 h13 v-62 a 23 23 0 0 0 -23 -23 h-33 v-12 z" />
+  </g>
+  <g text-anchor="middle" font-size="26px" font-family="Arial" font-weight="bold">
+    <text x="150" y="490">4.8.1</text>
+    <text x="550" y="490">4.8.2</text>
+    <text x="950" y="490">4.8.3</text>
+  </g></svg>

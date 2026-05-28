@@ -1,0 +1,16 @@
+<svg width="300px" height="450px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Знак 5.37 - Зона с ограничением экологического класса по видам транспортных средств</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <defs>
+    <pattern id="p" width="1" height="1">
+      <text x="139" y="72" text-anchor="middle" font-size="62px" font-weight="bold" font-family="Arial">ЗОНА</text>
+      <ellipse cx="139" cy="164" rx="103" ry="63" fill="#209e55" />
+      <ellipse cx="139" cy="164" rx="79" ry="46" fill="#fff" />
+      <path d="M 144 202.2 h14.5 v-15 h6 l 2.5 -12.5 h-8.5 v-49 h-14.5 l -35 49 v12.5 h35 z" />
+      <path fill="#fff" d=" M 125 174.7 h19 v-26.6 z" />
+      <path d="M 52 358.5 h8 a 5 5 0 1 1 41 0 h74.5 a 20 20 0 0 1 12 -19 h-84 v-44.2 a 8.5 8.5 0 0 0 -8 -8 h-20 v7.5 h14 a 4 4 0 0 1 4 4 v13 a 4 4 0 0 1 -4 4 h-28.5 a 5 6 45 0 1 -4 -8 l 5.5 -9 a 9 9 0 0 1 7 -4 h8 v-7.5 h-11 a 9 9 0 0 0 -7.5 4 l -15 24 a 9 9 0 0 0 -1.5 4 v31.2 a 8 8 0 0 0 8 8 z m 11.2 0 a 17.4 17.4 0 1 1 0 0.001 h8 a 9.4 9.4 0 1 0 0 -0.001 z m 115.4 0 a 17.4 17.4 0 1 1 0 0.001 h8 a 9.4 9.4 0 1 0 0 -0.001 z m 56.7 -19 v19 h-18.9 a 20 20 0 0 0 -12 -19 z m 0 -3.5 h-128 v-64 a 15 15 0 0 1 14 -14 h100 a 15 15 0 0 1 14 14 z" />
+      <text fill="#fff" x="170" y="319" text-anchor="middle" font-size="61px" font-family="Arial">8<tspan dx="6" font-size="75%">т</tspan></text>
+    </pattern>
+  </defs>
+  <rect x="1.5" y="1.5" rx="18" ry="18" width="297px" height="445px" fill="#fff" stroke="#000" stroke-width="3" />
+  <rect x="11" y="11" rx="9" ry="9" width="278px" height="426px" fill="url(#p)" stroke="#000" stroke-width="5" /></svg>

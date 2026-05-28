@@ -1,0 +1,16 @@
+<svg width="300px" height="150px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Знак 8.7 - Стоянка с неработающим двигателем</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <defs>
+    <pattern id="p" width="1" height="1">
+      <rect width="100%" height="100%" fill="#fff" />
+      <path d="M 0 46 h50 a 10 10 0 0 1 8 4 l 23 27 a 9 9 0 0 1 2 8 l -4.5 20 -7.5 3 l -35 1.5 h-36 v-34 h53 a 6 6 0 0 0 6 -7 l -3 -12 a 4.5 4.5 0 0 0 -4 -3 h-52 z" />
+      <circle cx="54" cy="109.5" r="17.5" fill="#fff" />
+      <circle cx="54" cy="109.5" r="11.5" fill="#fff" stroke="#000" stroke-width="7" />
+      <path d="M 81 104 l 23 2.7 -4 -6.7 -15 -1 z" />
+      <path fill="none" stroke="#000" stroke-width="4.5" d="M 130.7 69.8 a 33 33 0 0 0 -3.7 10 a 17.7 17.7 0 1 0 5 23.5 a 29 29 0 0 0 42 3 a 43 43 0 1 0 -7 -46 a 27 27 0 0 0 -36 9 z" />
+      <path fill="none" stroke="#eb1c24" stroke-width="16" d="M 28.5 200 l 300 -300" />
+    </pattern>
+  </defs>
+  <rect x="3" y="3" rx="16" ry="16" width="294px" height="144px" fill="url(#p)" stroke="#000" stroke-width="6" />
+</svg>

@@ -1,0 +1,17 @@
+<svg width="300px" height="450px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Знак 5.27 - Зона с ограничением стоянки</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <defs>
+    <pattern id="z" width="1" height="1">
+      <circle cx="99" cy="99" r="85" fill="#0482cc" />
+      <path fill="none" stroke="#fff" stroke-width="24" d="M 0 0 l 200 200" />
+      <path fill="none" stroke="#ed1e24" stroke-width="16" d="M 0 0 l 200 200" />
+    </pattern>
+    <pattern id="p" width="1" height="1">
+      <text x="139" y="72" text-anchor="middle" font-size="62px" font-weight="bold" font-family="Arial">ЗОНА</text>
+      <text x="139" y="394" text-anchor="middle" font-weight="bold" font-family="Arial" font-size="37px"><tspan dx="0,-7">7.</tspan><tspan font-size="80%">00</tspan><tspan dx="5,0">&#8211;</tspan><tspan dx="2,-2,-2">19.</tspan><tspan font-size="80%">00</tspan></text>
+      <circle cx="139" cy="223" r="99" fill="url(#z)" stroke="#ed1e24" stroke-width="20" />
+    </pattern>
+  </defs>
+  <rect x="1.5" y="1.5" rx="18" ry="18" width="297px" height="445px" fill="#fff" stroke="#000" stroke-width="3" />
+  <rect x="11" y="11" rx="9" ry="9" width="278px" height="426px" fill="url(#p)" stroke="#000" stroke-width="5" /></svg>

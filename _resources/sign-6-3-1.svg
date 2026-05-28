@@ -1,0 +1,6 @@
+<svg width="300px" height="300px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Знак 6.3.1 - Место для разворота</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <rect x="2" y="2" rx="25" ry="25" width="296px" height="296px" stroke="#000" fill="#fff" stroke-width="4" />
+  <rect x="9" y="9" rx="20" ry="20" width="282px" height="282px" fill="#0a83c8" />
+  <path fill="#fff" d="M 190.5 292 v-193 a 22 22 0 1 0 -80 0 v90 h29 l -43 72 -43 -72 h29 v-90 a 33 33 0 1 1 136 0 v193 z" /></svg>

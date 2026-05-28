@@ -1,0 +1,12 @@
+<svg width="300px" height="300px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Знак 3.28 - Стоянка запрещена</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <defs>
+    <pattern id="p" width="1" height="1">
+      <circle cx="128" cy="128" r="112" fill="#0482cc" />
+      <path fill="none" stroke="#fff" stroke-width="33" d="M 0 0 l 256 256" />
+      <path fill="none" stroke="#ed1e24" stroke-width="21" d="M 0 0 l 256 256" />
+    </pattern>
+  </defs>
+  <circle cx="150" cy="150" r="147" fill="#fff" stroke="#000" stroke-width="6" />
+  <circle cx="150" cy="150" r="128" fill="url(#p)" stroke="#ed1e24" stroke-width="20" /></svg>

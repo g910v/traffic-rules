@@ -1,0 +1,8 @@
+<svg width="300px" height="300px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Знак 3.7 - Движение с прицепом запрещено</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <circle cx="150" cy="150" r="147" fill="#fff" stroke="#000" stroke-width="6" />
+  <circle cx="150" cy="150" r="128" fill="none" stroke="#ed1e24" stroke-width="20" />
+  <path d="M 53 173 h167 v-57 h-111 v46 h-56 z" />
+  <circle cx="155" cy="175" r="20" fill="#fff" />
+  <circle cx="155" cy="175" r="12" fill="#fff" stroke="#000" stroke-width="9" /></svg>

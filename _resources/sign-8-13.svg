@@ -1,0 +1,7 @@
+<svg width="300px" height="300px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Знак 8.13 - Направление главной дороги</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <rect x="3" y="3" rx="16" ry="16" width="294px" height="294px" fill="#fff" stroke="#000" stroke-width="6" />
+  <path fill="none" stroke="#000" stroke-width="9" d="M 150 1 v135 M 299 150 h-135" />
+  <path fill="none" stroke="#000" stroke-width="30" d="M 1 150 h110 a 44 44 0 0 1 39 39 v110" />
+</svg>

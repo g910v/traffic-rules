@@ -1,0 +1,11 @@
+<svg width="300px" height="150px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Знак 8.16 - Влажное покрытие</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <rect x="3" y="3" rx="16" ry="16" width="294px" height="144px" fill="#fff" stroke="#000" stroke-width="6" />
+  <path fill="none" stroke="#000" stroke-width="8" stroke-linejoin="round" d="M 83 86 c -25 -5 -10 -42 13 -25 c 0 -22 35 -34 43 0 c 6 -50 84 -48 85 -6 c -1 22 -15 39 -60 38 c -20 0 -50 0 -80.5 -6.9 z" />
+  <path id="d" d="M 75 122 l 10 -22 h7.3 l -10 22 z" />
+  <use xlink:href="#d" x="56" />
+  <use xlink:href="#d" x="112" />
+  <use xlink:href="#d" x="28" y="9" />
+  <use xlink:href="#d" x="84" y="9" />
+</svg>

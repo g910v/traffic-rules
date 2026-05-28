@@ -1,0 +1,22 @@
+<svg width="700px" height="600px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Зона действия запрещающих знаков</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <rect id="RV" x="3" y="3" rx="16" ry="16" width="144px" height="294px" fill="#fff" stroke="#000" stroke-width="6" />
+  <use xlink:href="#RV" x="275" />
+  <use xlink:href="#RV" x="550" />
+  <path d="M 75 24 l -24 43 h14 v56 h20 v-56 h14 z m 275 251 l 43.5 -75 h-29 v-197 h-29 v197 h-29 z m 275 -250 l 42 74.5 h-27.7 v101 h27.7 l -42 74.5 -42 -74.5 h27.7 v-101 h-27.7 z" />
+  <text x="72" y="212" dx="0,-4" text-anchor="middle" font-weight="bold" font-family="Arial" font-size="78px">10<tspan x="75" dy="59" font-size="70px">м</tspan></text>
+  <rect id="RH" x="3" y="403" rx="16" ry="16" width="294px" height="144px" fill="#fff" stroke="#000" stroke-width="6" />
+  <use xlink:href="#RH" x="400" />
+  <g text-anchor="middle" font-weight="bold" font-family="Arial" font-size="70px">
+    <text x="94" y="500" dx="0,1">30<tspan dx="7" font-size="64px">м</tspan></text>
+    <text x="610" y="499">25<tspan dx="7" font-size="64px">м</tspan></text>
+  </g>
+  <path d="M 284 475 l -51 -29 v19 h-37 v20 h37 v19 z m 141 0 l 50 -29 v19 h37 v20 h-37 v19 z" />
+  <g text-anchor="middle" font-size="30px" font-family="Arial" font-weight="bold">
+    <text x="75" y="340">8.2.2</text>
+    <text x="350" y="340">8.2.3</text>
+    <text x="625" y="340">8.2.4</text>
+    <text x="150" y="590">8.2.5</text>
+    <text x="550" y="590">8.2.6</text>
+  </g></svg>

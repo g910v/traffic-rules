@@ -1,0 +1,15 @@
+<svg width="300px" height="300px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Знак 3.23 - Конец зоны запрещения обгона грузовым автомобилям</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <defs>
+    <pattern id="p" width="1" height="1">
+      <path fill="#c0c0c0" d="M 40 88 a 13 13 0 0 1 12 -12 h72 a 13 13 0 0 1 12 12 v82 a 1 1 0 0 1 -1 1 h-2.5 v20 a 5 5 0 1 1 -16 0 v-20 h-10 a 22.7 22.7 0 0 1 -37 0 h-10 v20 a 5 5 0 1 1 -16 0 v-20 h-2.5 a 1 1 0 0 1 -1 -1 z" />
+      <path fill="#c0c0c0" d="M 147 150 a 8 8 0 0 1 5 -7 l 7.5 -24 a 9 9 0 0 1 7 -7 h53.6 a 9 9 0 0 1 7 7 l 7.5 24 a 8 8 0 0 1 5 7 v20 a 9 9 0 0 1 -9 7 h-74.6 a 9 9 0 0 1 -9 -7 z" />
+      <path fill="#fff" d="M 160.75 143.4 a 1 1 0 0 1 -1 -1 l 7 -21.5 a 4 4 0 0 1 2 -2 h49 a 4 4 0 0 1 2 2 l 7 21.5 a 1 1 0 0 1 -1 1 z" />
+      <path fill="#c0c0c0" id="w" d="M 152.7 179.5 h17 v11 a 8 8 0 0 1 -17 0 z" />
+      <use xlink:href="#w" x="63" />
+      <path fill="none" stroke="#000" stroke-width="1000" stroke-dasharray="6,8.15" d="M 116.9 116.9 l 47 47" />
+    </pattern>
+  </defs>
+  <circle cx="150" cy="150" r="148" fill="#fff" stroke="#000" stroke-width="4" />
+  <circle cx="150" cy="150" r="139" fill="url(#p)" stroke="#000" stroke-width="6" /></svg>

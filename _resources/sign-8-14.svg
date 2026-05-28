@@ -1,0 +1,6 @@
+<svg width="300px" height="150px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Знак 8.14 - Полоса движения</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <rect x="3" y="3" rx="16" ry="16" width="294px" height="144px" stroke="#000" fill="#fff" stroke-width="6" />
+  <path d="M 121 4 v56 l -112 -25 140 109.7 h2 l 140 -109.7 -112 25 v-56 z" />
+</svg>
